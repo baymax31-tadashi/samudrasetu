@@ -1,30 +1,27 @@
-# SAMUDRASETU
+🌊 Integrated Platform for Crowdsourced Ocean Hazard Reporting & Social Media Analytics
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+📌 Overview
+India’s 7,500 km long coastline is highly vulnerable to ocean-related hazards such as tsunamis, storm surges, high waves, swell events, and abnormal sea behavior. While agencies like INCOIS (Indian National Centre for Ocean Information Services) provide official alerts based on satellite and model data, there is a gap in real-time ground reporting from citizens and communities.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sargamshabina06-4257s-projects/v0-samudrasetu)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/rlle5ESWbDK)
+This project proposes an integrated mobile + web platform that combines:
 
-## Overview
+Crowdsourced hazard reports (photos, videos, geotags from citizens).
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Social media analytics (Twitter, YouTube, Facebook posts analyzed with NLP).
 
-## Deployment
+Interactive dashboards for disaster managers.
 
-Your project is live at:
+The goal is to create a two-way communication system that complements existing government alert systems (like SACHET App) and improves situational awareness, response speed, and coastal resilience.
 
-**[https://vercel.com/sargamshabina06-4257s-projects/v0-samudrasetu](https://vercel.com/sargamshabina06-4257s-projects/v0-samudrasetu)**
+🚀 Features
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/rlle5ESWbDK](https://v0.app/chat/projects/rlle5ESWbDK)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+✅ Citizen reporting interface (mobile/web) with media & geotag upload. 
+✅ Role-based access (citizens, volunteers, officials, analysts). 
+✅ Interactive map-based dashboard showing live reports & social media hotspots.
+✅ NLP-powered engine for hazard-related keyword detection, trend analysis & sentiment.
+✅ Filters by location, date, hazard type, and source.
+✅ Dynamic hotspot generation (based on density of reports or verified threats). 
+✅ Multilingual support for regional accessibility.
+✅ Offline reporting & sync later feature for low-connectivity areas. 
+✅ APIs for integration with external systems (INCOIS, NDMA, IMD, Sachet).
+✅ Safe Location Finder suggests the nearest safe zones in real time based on reported hazards and live map data.
